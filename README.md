@@ -1,3 +1,3 @@
 # Demo repository
 
-This is a demo repository for the videeo.
+This is a demo repository for the video.
